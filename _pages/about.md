@@ -18,9 +18,9 @@ Beyond these topics, I have not encountered a topic in NLP or ML that I did not 
 
 
 ## Experience
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 2rem; margin-top: 2rem;">
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 2rem;">
   <div>
-    <h3>Education</h3>
+    <h4>Education</h4>
     <ul>
       <li>
         <strong>M.Sc. Computer Science</strong><br>
@@ -35,7 +35,7 @@ Beyond these topics, I have not encountered a topic in NLP or ML that I did not 
     </ul>
   </div>
   <div>
-    <h3>Professional</h3>
+    <h4>Professional</h4>
     <ul>
       <li>
         <strong>Software Engineering Intern</strong><br>
