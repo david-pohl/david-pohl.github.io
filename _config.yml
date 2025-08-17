@@ -57,7 +57,7 @@ plugins:
 author:
   name   : "David Pohl"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "M.Sc. Student at Institute of Science Tokyo.\nSWE Intern at Woven by Toyota.\ndavid.pohl[at]nlp.c.titech.ac.jp"
+  bio    : "ASDM.Sc. Student at Institute of Science Tokyo.\nSWE Intern at Woven by Toyota.\ndavid.pohl[at]nlp.c.titech.ac.jp"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
