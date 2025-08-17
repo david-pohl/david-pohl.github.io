@@ -3,8 +3,6 @@ main:
     url: "/"
   - title: "Resume"
     url: "/assets/documents/resume_david_pohl.pdf"
-  # - title: "Posts"
-  #   url: /posts/
   # - title: "Categories"
   #   url: /categories/
   # - title: "Tags"
