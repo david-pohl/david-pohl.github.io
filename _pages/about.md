@@ -59,7 +59,7 @@ Beyond these topics, I have not encountered a topic in NLP or ML that I did not 
 
 ### Publications
 
-**Decoding-Free Sampling Strategies for LLM Marginalization**\
+**Strategies for LLM Marginalization**\
 David Pohl, Marco Cognetta, Junyoung Lee, Naoaki Okazaki.\
 (under review)\
 TLDR: We proposed a novel automata-based sampling method for efficient marginalization, achieving orders-of-magnitude speedups over model-based sampling at an equal or improved accuracy
