@@ -69,8 +69,10 @@ TLDR: We proposed a novel automata-based sampling method for efficient marginali
 **Pitfalls, Subtleties, and Techniques in Automata-Based Subword-Level Constrained Generation**\
 Marco Cognetta*, David Pohl*, Junyoung Lee, Naoaki Okazaki.\
 (Tokenization Workshop at ICML 2025)\
+[[Link]](https://openreview.net/pdf?id=DFybOGeGDS)\
 TLDR: We addressed key challenges in automata-based constrained generation for subword-level LLMs and proposed a unified pipeline ensuring reliability, extensibility, and testability
 
 **Online DATEing: A Web Interface for Temporal Annotations**\
 Dennis Aumiller, Satya Almasian, David Pohl, Michael Gertz.\
 (SIGIR 2022)
+[[Link]](https://ds.ifi.uni-heidelberg.de/files/Team/daumiller/aumiller-etal-2022-online.pdf)
