@@ -1,8 +1,8 @@
 main:
   - title: "About"
-    url: /about/
+    url: "/"
   - title: "Resume"
-    url: "/assets/documents/david_pohl_resume.pdf"
+    url: "/assets/documents/resume_david_pohl.pdf"
   # - title: "Posts"
   #   url: /posts/
   # - title: "Categories"

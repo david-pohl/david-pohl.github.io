@@ -8,7 +8,7 @@ title: "About"
 [Publications](#publications)
 
 
-## About Me
+### About Me
 Hi, I’m David Pohl, an M.Sc. student at the Institute of Science Tokyo (formerly Tokyo Institute of Technology). I am fortunate to be advised by Prof. [Naoaki Okazaki](https://www.chokkan.org/index.en.html). I am also a Software Engineering Intern at Woven by Toyota and a Research Scholar at the University of Tokyo under the supervision of Prof. [Toyotaro Suzumura](https://sites.google.com/view/toyolab/suzumura-1).
 I completed my B.Sc. at Heidelberg University in Germany, supervised by Prof. [Michael Gertz](https://ds.ifi.uni-heidelberg.de/team/gertz/).
 
@@ -17,7 +17,7 @@ Beyond these topics, I have not encountered a topic in NLP or ML that I did not 
 
 
 
-## Experience
+### Experience
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 2rem;">
   <div>
     <h4>Education</h4>
@@ -57,7 +57,7 @@ Beyond these topics, I have not encountered a topic in NLP or ML that I did not 
   </div>
 </div>
 
-## Publications
+### Publications
 
 **Decoding-Free Sampling Strategies for LLM Marginalization**\
 David Pohl, Marco Cognetta, Junyoung Lee, Naoaki Okazaki.\
