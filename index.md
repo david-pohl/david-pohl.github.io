@@ -1,10 +1,11 @@
 ---
 permalink: /
-title: "About Me"
+title: "About"
+author_profile: true 
 ---
 
 [About Me](#aboutme)\
-[Experience](#experience)\
+[Education & Professional](#experience)\
 [Publications](#publications)
 
 
@@ -16,8 +17,8 @@ My research centers on tokenization in large language models during both pretrai
 Beyond these topics, I have not encountered a topic in NLP or ML that I did not want to hear more about. If you’d like to chat, collaborate, or exchange ideas, please feel free to reach out.
 
 
+<a id="experience"></a>
 
-### Experience
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 2rem;">
   <div>
     <h4>Education</h4>
