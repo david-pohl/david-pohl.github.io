@@ -2,6 +2,7 @@
 permalink: /
 title: "About"
 author_profile: true 
+layout: single
 ---
 
 [About Me](#aboutme)\
